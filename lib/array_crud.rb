@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  ["Jojo's Bizarre Adventure", "One Piece", "Bleach", "Naruto"]
 end
 
 def add_element_to_end_of_array(array, element)
